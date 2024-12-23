@@ -1,0 +1,173 @@
+/*GENERAL CSS*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 20px;
+    width: 1296px;
+}
+
+header {
+    padding: 56px;
+}
+
+.header-logo {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.header-list {
+    padding-left: 512px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.header-item {
+    padding-right: 40px;
+    display: inline-block;
+    vertical-align: middle;     
+}
+
+.hero-container {
+    padding-top: 84px;
+}
+
+
+.hero-left-box {
+    margin-bottom: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.hero-text {
+    width: 445px;
+    font-family: Milish;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px; /* 152.381% */
+    color: #7D7987;
+}
+
+.hero-btn {
+    width: 200px;
+    height: 56px;
+    border-radius: 55px;
+    border: none;
+    font-family: Milish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 333.333% */
+    cursor: pointer;
+    background: #458FF6;
+    color: #FFF;
+}
+
+.hero-img {
+    margin-left: 744px;
+    
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.services-container{
+    padding-top: 192px;
+    text-align: center;
+}
+
+.services-title{
+    padding-bottom: 26px;
+    color: #000;
+    font-family: Mulish, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; /* 155.556% */
+}
+
+.services-line{
+    margin-left: 601px;
+    width: 56px;
+    height: 2px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #000;
+}
+
+.services-text{
+    margin-left: 120px;
+    padding-top: 31px;
+    padding-bottom: 80px;
+    width: 952px;
+    color: #7D7987;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px; /* 166.667% */
+}
+
+.services-box{
+    margin-right: 35px;
+    margin-bottom: 35px;
+    padding: 54px 0 46px 37px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 350px;
+    height: 354px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 10px 40px 50px 0px rgba(229, 233, 246, 0.40);
+    text-align: left;
+}
+
+.search {
+    width: 266px;
+    color: #7D7987;
+    font-family: Mulish, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px; /* 175% */
+}
+
+
+.services-box-title{
+    margin-top: 22.41px;
+    width: 196px;
+    height: 56px;
+    color: #000;
+    font-family: Mulish, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; /* 233.333% */
+}
+
+.services-box-text {
+    width: 266px;
+    color: #7D7987;
+    font-family: Mulish, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px; /* 175% */
+}
+
+
+    
+
